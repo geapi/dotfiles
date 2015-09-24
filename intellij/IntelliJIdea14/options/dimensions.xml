@@ -1,0 +1,27 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1440.900" x="720" y="230" />
+    <location key="#Project_Structure.0.0.2560.1440" x="815" y="225" />
+    <location key="#Browse_Repositories.0.0.2560.1440" x="956" y="393" />
+    <location key="OptionsEditor.0.0.2560.1440" x="680" y="311" />
+    <location key="WELCOME_SCREEN.0.0.2560.1440" x="1280" y="230" />
+    <location key="NewModule_or_Project.wizard.0.0.2560.1440" x="950" y="216" />
+    <location key="FileChooserDialogImpl.0.0.2560.1440" x="1067" y="279" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.2560.1440" x="996" y="536" />
+    <location key="findTextDialog.0.0.2560.1440" x="1074" y="482" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1440.900" x="461" y="355" />
+    <location key="findTextDialog.0.0.1440.900" x="514" y="230" />
+    <location key="replaceTextDialog.0.0.1440.900" x="511" y="203" />
+    <location key="ReplaceDuplicatesPrompt.0.0.1440.900" x="192" y="383" />
+    <location key="OptionsEditor.0.0.1440.900" x="120" y="40" />
+    <location key="new project wizard.0.0.1440.900" x="353" y="53" />
+    <location key="#Project_Structure.0.0.1440.900" x="196" y="36" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.1440.900" x="404" y="217" />
+    <location key="FileChooserDialogImpl.0.0.1440.900" x="400" y="206" />
+    <location key="SettingsEditor.0.0.1440.900" x="201" y="121" />
+    <size key="GridCell.Tab.0.left.0.0.1440.900" width="698" height="200" />
+    <size key="GridCell.Tab.0.center.0.0.1440.900" width="698" height="200" />
+    <size key="GridCell.Tab.0.right.0.0.1440.900" width="698" height="200" />
+    <size key="GridCell.Tab.0.bottom.0.0.1440.900" width="698" height="200" />
+  </component>
+</application>

@@ -1,0 +1,31 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>bosh-jenkins-artifacts</find>
+      <find>go1.3</find>
+      <find>chef-dk</find>
+      <find>curl</find>
+      <find>excute</find>
+      <find>execute</find>
+      <find>casper</find>
+      <find>go</find>
+      <find>Formula</find>
+      <find>cf-lamb</find>
+      <find>files</find>
+      <find>menu_meter</find>
+      <find>menumeter</find>
+      <find>menu</find>
+      <find>quarts</find>
+      <find>quartz</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>go1.3.3</replace>
+      <replace>cf-jarvice</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/workspace/sprout-wrap/cf-common</dir>
+      <dir>$USER_HOME$/workspace/sprout-wrap/cf-common/files/default/Sublime Text 3 Packages/Ginkgo/Snippets</dir>
+      <dir>$USER_HOME$/workspace/sprout-wrap/cf-jarvice</dir>
+    </dirStrings>
+  </component>
+</application>

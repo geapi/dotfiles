@@ -1,0 +1,75 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JavaScript versions">
+      <project id="lamb-ci-tools" values="DEFAULT" collectionTime="0" />
+      <project id="set" values="DEFAULT" collectionTime="0" />
+      <project id="rpi" values="DEFAULT" collectionTime="1442932138556" />
+      <project id="sprout-wrap" values="DEFAULT" collectionTime="0" />
+      <project id="cf-acceptance-tests" values="DEFAULT" collectionTime="0" />
+      <project id="docs-deploying-cf" values="DEFAULT" collectionTime="0" />
+    </group>
+    <group name="module type">
+      <project id="lamb-ci-tools" values="JAVA_MODULE" collectionTime="0" />
+      <project id="set" values="JAVA_MODULE" collectionTime="0" />
+      <project id="rpi" values="JAVA_MODULE" collectionTime="1442932137929" />
+      <project id="sprout-wrap" values="RUBY_MODULE" collectionTime="0" />
+      <project id="cf-acceptance-tests" values="JAVA_MODULE" collectionTime="0" />
+      <project id="docs-deploying-cf" values="JAVA_MODULE" collectionTime="0" />
+    </group>
+    <group name="vcs">
+      <project id="docs-deploying-cf" values="Git" collectionTime="0" />
+      <project id="cf-acceptance-tests" values="Git" collectionTime="0" />
+      <project id="sprout-wrap" values="Git" collectionTime="0" />
+      <project id="lamb-ci-tools" values="Git" collectionTime="0" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="set" values="JUnit" collectionTime="0" />
+      <project id="rpi" values="JUnit" collectionTime="1442932137961" />
+    </group>
+    <group name="file-type">
+      <project id="lamb-ci-tools" values="HTML,Ruby,Images,IDEA_MODULE,Markdown,JavaScript,SWF,SCSS,Gitignore file,XML,HAML,CSS,Bash,YAML,Perl,PLAIN_TEXT,UNKNOWN" collectionTime="0" />
+      <project id="set" values="JAVA,XML,PLAIN_TEXT,UNKNOWN,IDEA_MODULE" collectionTime="0" />
+      <project id="rpi" values="JAVA,UNKNOWN,XML,PLAIN_TEXT,IDEA_MODULE" collectionTime="1442932138504" />
+      <project id="sprout-wrap" values="Markdown,PLAIN_TEXT,plist,IDEA_MODULE,RHTML,YAML,Bash,JSON,UNKNOWN,Images,Google Go,Gitignore file,XML,Ruby,Properties" collectionTime="0" />
+      <project id="cf-acceptance-tests" values="Markdown,XML,JSON,JSP,Bash,ARCHIVE,JavaScript,UNKNOWN,PLAIN_TEXT,IDEA_MODULE,HTML,Google Go,Protobuf,YAML" collectionTime="0" />
+      <project id="docs-deploying-cf" values="IDEA_MODULE,XML,Markdown,PLAIN_TEXT,UNKNOWN,Images,YAML" collectionTime="0" />
+    </group>
+    <group name="ruby-sdk-version">
+      <project id="sprout-wrap" values="ruby-2.0.0-p451" collectionTime="0" />
+    </group>
+    <group name="ruby-project-type">
+      <project id="sprout-wrap" values="plain ruby" collectionTime="0" />
+    </group>
+    <group name="ruby-gems-names">
+      <project id="sprout-wrap" values="diff-lcs,coderay,plist,erubis,method_source,bundler" collectionTime="0" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="lamb-ci-tools" values="Project,Project" collectionTime="0" />
+      <project id="set" values="Project,Project" collectionTime="0" />
+      <project id="rpi" values="Project,Project" collectionTime="1442932138556" />
+      <project id="sprout-wrap" values="Project,Project" collectionTime="0" />
+      <project id="cf-acceptance-tests" values="Project,Project" collectionTime="0" />
+      <project id="docs-deploying-cf" values="Project,Project" collectionTime="0" />
+    </group>
+    <group name="language-level">
+      <project id="lamb-ci-tools" values="JDK_1_6" collectionTime="0" />
+      <project id="set" values="JDK_1_6" collectionTime="0" />
+      <project id="rpi" values="JDK_1_8" collectionTime="1442932138547" />
+      <project id="sprout-wrap" values="JDK_1_3" collectionTime="0" />
+      <project id="cf-acceptance-tests" values="JDK_1_6" collectionTime="0" />
+      <project id="docs-deploying-cf" values="JDK_1_6" collectionTime="0" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="2" />
+      <entry feature="execute.JUnit.Run" count="10" />
+      <entry feature="ide.settings.Appearance" count="1" />
+      <entry feature="ide.settings.Keymap" count="3" />
+      <entry feature="ide.settings.System_Settings" count="1" />
+      <entry feature="ideaapp.started" count="29" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="2" />
+    </counts>
+  </component>
+</application>

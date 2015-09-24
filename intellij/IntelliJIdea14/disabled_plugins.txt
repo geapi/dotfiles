@@ -1,0 +1,1 @@
+com.nmatveev.idea-plugin-protobuf
