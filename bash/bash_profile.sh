@@ -1,4 +1,4 @@
-source .aliases
+source ~/.aliases
 
 function parse_git_branch () {
   git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
@@ -11,3 +11,5 @@ NO_COLOR="\[\033[0m\]"
  
 PS1="$GREEN\u$NO_COLOR@$RED\\h $YELLOW\D{%F %T}
 in: $NO_COLOR\w $YELLOW\$(parse_git_branch)$NO_COLOR\$: "
+
+source /opt/boxen/env.sh
